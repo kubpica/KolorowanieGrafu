@@ -135,15 +135,7 @@ ponieważ posiada on najniższy numer.
 **Graf jest pokolorowany. Zużyliśmy 3 kolory: czerwony (numer 0), żółty (numer 1) i
 zielony ( numer 2).**
 
-
-## 4. Lista kroków algorytmów :
-
-**Algorytm zachłanny :**
-
-**Algorytm LF :**
-
-
-## 5. Porównanie algorytmów :
+## 4. Porównanie algorytmów :
 
 **1. Dane wejściowe dla obu algorytmów :**
 Graf testowy „anna”
@@ -179,7 +171,7 @@ Algorytm LF : ilość użytych kolorów **267**
 Algorytm SL : ilość użytych kolorów **264**
 Algorytm GIS : ilość użytych kolorów **212**
 
-## 6. Wnioski : Stworzony program był przez nas wielokrotnie testowany. Program ten
+## 5. Wnioski : Stworzony program był przez nas wielokrotnie testowany. Program ten
 
 spełnia wymagania zadania ponieważ po wprowadzeniu odpowiednich danych
 wejściowych za każdym razem dane wyjściowe zgadzały się z założeniami. W wielu
@@ -195,7 +187,7 @@ może okazać się znacząca. Przy niewielkim skomplikowaniu grafów praktycznie
 niewidoczna jest różnica w czasie oczekiwania na wynik.
 
 
-## 7. Literatura :
+## 6. Literatura :
 
 _- [http://eduinf.waw.pl/inf/alg/001_search/0142.php#P](http://eduinf.waw.pl/inf/alg/001_search/0142.php#P)
 - [http://eduinf.waw.pl/inf/alg/001_search/0142.php#P](http://eduinf.waw.pl/inf/alg/001_search/0142.php#P)
