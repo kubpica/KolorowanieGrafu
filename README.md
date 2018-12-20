@@ -43,9 +43,6 @@ kontynuując rozwiązanie podproblemu wynikającego z podjętej decyzji.
 
 ## 3. Opis programu :
 
-```
-Okno główne programu
-```
 Do wyboru w programie mamy pięć zaimplementowanych algorytmów kolorowania
 grafów **Algorytm zachłanny bez sortowania wierzchołków** , **Algorytm Random
 Sequential** , **Algorytm Largest First** , **Algorytm Smallest Last** , **Algorytm GIS**. Graf,
